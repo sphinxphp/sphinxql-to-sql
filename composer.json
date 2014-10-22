@@ -1,6 +1,6 @@
 {
-    "name": "sphinxphp/sphinxql-to-mysql",
-    "description": "A powerful SphinxQL to MySQL data importer.",
+    "name": "sphinxphp/sphinxql-to-sql",
+    "description": "A powerful SphinxQL to SQL data importer.",
     "license": "MIT",
     "authors": [
         {
